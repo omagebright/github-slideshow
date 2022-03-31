@@ -1,3 +1,6 @@
-My new slide
-
-Move to the next page
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
